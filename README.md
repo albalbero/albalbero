@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- 🎯 Role/Occupation: Student <br>- 📍 Location: Colognola ai Colli (Vr), Italy<br>- 💡 Main Interests: F1, videogames, coding, volleyball</p>
+<p align="left">- 🎯 Role/Occupation: Student <br>- 📍 Location: Colognola ai Colli (VR), Italy<br>- 💡 Main Interests: F1, videogames, coding, volleyball</p>
 
 ###
 
