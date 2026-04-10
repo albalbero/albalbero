@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">- Coding in Python<br>- Good at playing Minecraft<br>- Can cook the carbonara</p>
+<p align="left">- Coding in Python<br>- Good at playing Minecraft<br>- Can cook carbonara</p>
 
 ###
 
@@ -27,10 +27,6 @@
 ###
 
 <h2 align="left">📂 Projects</h2>
-
-###
-
-<p align="left">- 🔗 <a href="https://best4you7.wordpress.com">My website</a></p>
 
 ###
 
